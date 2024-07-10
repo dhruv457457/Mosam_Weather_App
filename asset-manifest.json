@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MOSAM_WEATHER_APP/static/css/main.09c3dee3.css",
+    "main.js": "/MOSAM_WEATHER_APP/static/js/main.b6e2effc.js",
+    "static/js/453.bae3dd1e.chunk.js": "/MOSAM_WEATHER_APP/static/js/453.bae3dd1e.chunk.js",
+    "static/media/pngwing.com.png": "/MOSAM_WEATHER_APP/static/media/pngwing.com.5bc5571e2bf378e20557.png",
+    "static/media/Sun.png": "/MOSAM_WEATHER_APP/static/media/Sun.33e2e7221c61ff40df40.png",
+    "static/media/Humidity.png": "/MOSAM_WEATHER_APP/static/media/Humidity.41a5135189be640593dd.png",
+    "static/media/wind.png": "/MOSAM_WEATHER_APP/static/media/wind.50f712e5381937cd3544.png",
+    "index.html": "/MOSAM_WEATHER_APP/index.html",
+    "main.09c3dee3.css.map": "/MOSAM_WEATHER_APP/static/css/main.09c3dee3.css.map",
+    "main.b6e2effc.js.map": "/MOSAM_WEATHER_APP/static/js/main.b6e2effc.js.map",
+    "453.bae3dd1e.chunk.js.map": "/MOSAM_WEATHER_APP/static/js/453.bae3dd1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c3dee3.css",
+    "static/js/main.b6e2effc.js"
+  ]
+}
