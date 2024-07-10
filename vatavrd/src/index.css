@@ -1,0 +1,12 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+.app{
+  min-height: 100rem;
+  background-color: rgb(200, 215, 235);
+}
